@@ -6,7 +6,7 @@ target 'Bagel' do
   use_frameworks!
 
   pod 'CocoaAsyncSocket'
-  pod 'macOSThemeKit', '~> 1.2.0'
+  pod 'macOSThemeKit', '~> 1.4.0'
   pod 'Highlightr'
   
 end
